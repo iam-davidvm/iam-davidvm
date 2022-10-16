@@ -11,7 +11,7 @@
 - 👨‍🎓 Currently following [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) "The Web Developer Bootcamp 2022") course on Udemy
 - 🔍 But ofcourse searching my own way and looking further then the course materials
 - 🥾 In my spare time I like to Geocache
-- 📧 For now you can reach me via: [![Linkedin Badge](https://img.shields.io/badge/-davidvanmelkebeke-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/david-van-melkebeke-a73b317/))
+- 📧 For now you can reach me via: [<img src="https://img.shields.io/badge/-davidvanmelkebeke-blue?style=flat&logo=Linkedin&logoColor=white)" />](https://www.linkedin.com/in/david-van-melkebeke-a73b317/) 
 
 ---
 
