@@ -8,7 +8,7 @@
 - 📅 1986
 - <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/be.svg" width="20px"> Belgian (Dutch)
 - 💻 Working as a ICT Support Engineer / Digital Coach
-- 👨‍🎓 Currently following [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) "The Web Developer Bootcamp 2022") course on Udemy
+- 👨‍🎓 Currently following [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) course on Udemy
 - 🔍 But ofcourse searching my own way and looking further then the course materials
 - 🥾 In my spare time I like to Geocache
 - 📧 For now you can reach me via: [<img src="https://img.shields.io/badge/-davidvanmelkebeke-blue?style=flat&logo=Linkedin&logoColor=white)" />](https://www.linkedin.com/in/david-van-melkebeke-a73b317/) 
