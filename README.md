@@ -7,7 +7,7 @@
 
 - 📅 1986
 - <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/be.svg" width="20px"> Belgian (Dutch)
-- 💻 Working as a ICT Support Engineer / Digital Coach
+- 💻 Working as an ICT Support Engineer / Digital Coach
 - 👨‍🎓 Currently following [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) course on Udemy
 - 🔍 But ofcourse searching my own way and looking further then the course materials
 - 🥾 In my spare time I like to Geocache
