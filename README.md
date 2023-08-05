@@ -27,8 +27,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<h2>What I am learning at the moment 💡:</h2>
+- C#, .NET and SQL
+
 <h2>What I want to learn next:</h2>
 
 - Getting more practice with what I have learned, because now I still have to refer to previous code for certain bits.
-- Look into Docker
-- And then there are certain topics that seems interesting to learn more about at this time, but I assume this list will change when I got more experienced and know which direction to follow: TypeScript, SQL, socket.io
+- Master Docker
+
