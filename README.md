@@ -28,7 +28,9 @@
 </div>
 
 <h2>What I am learning at the moment 💡:</h2>
-- C#, .NET and SQL
+<ul>
+  <li>C#, .NET and SQL</li>
+</ul>
 
 <h2>What I want to learn next:</h2>
 
