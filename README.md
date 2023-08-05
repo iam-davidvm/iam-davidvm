@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h2>What I am learning at the moment 💡:</h2>
+<h2>💡 What I am learning at the moment:</h2>
 <ul>
   <li>C#, .NET and SQL</li>
 </ul>
